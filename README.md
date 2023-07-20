@@ -1,7 +1,8 @@
 ## Features
 
-- Rotate an image 90°
+- Rotate an image by x degrees
 - Flip an image horizontally
+- Flip an image vertically
 - Apply Grayscale Filter
 
 ### Note
